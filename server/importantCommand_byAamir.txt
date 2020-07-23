@@ -1,0 +1,4 @@
+//Creating migration for this model will be like this.
+/**
+ * sequelize migration:create --name create_users_table
+ * */
