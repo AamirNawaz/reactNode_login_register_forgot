@@ -12,13 +12,14 @@ A complete Project Authentication skelton for Node React with sequelize (dielect
   Secured Password Recovery with token based, Confirmation email for password change etc.
 
 
-# Note:
+**Note:**
 If you have any project related to Node,React.
   Or
 Php Core, PHP Codeigniter , laravel based please feels free to contact.
  
-My contact:
- # aamir.nawaz990@gmail.com
+ **My contact:**
+    
+    aamir.nawaz990@gmail.com
  
 
 
