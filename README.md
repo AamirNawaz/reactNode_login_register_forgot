@@ -1,8 +1,10 @@
 **reactNode_login_register_forgot**
-A complete Project Authentication skelton for Node React with sequelize (dielect) mysql.
+
+    A complete Project Authentication skelton for Node React with sequelize (dielect) mysql.
 
 
 **Login**
+   
     Login with jwt token based.
 
 **Signup**
@@ -15,9 +17,9 @@ A complete Project Authentication skelton for Node React with sequelize (dielect
 
 
 **Note:**
-If you have any project related to Node,React.
-  Or
-Php Core, PHP Codeigniter , laravel based please feels free to contact.
+    If you have any project related to Node,React.
+      Or
+    Php Core, PHP Codeigniter , laravel based please feels free to contact.
  
  **My contact:**
     
