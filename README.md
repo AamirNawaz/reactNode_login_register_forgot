@@ -3,13 +3,15 @@ A complete Project Authentication skelton for Node React with sequelize (dielect
 
 
 **Login**
-  Login with jwt token based.
+    Login with jwt token based.
 
 **Signup**
-  Signup and password hash with salt bcryt.
+  
+    Signup and password hash with salt bcryt.
 
 **Password Recovery**
-  Secured Password Recovery with token based, Confirmation email for password change etc.
+
+    Secured Password Recovery with token based, Confirmation email for password change etc.
 
 
 **Note:**
